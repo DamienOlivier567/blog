@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f23b4d3f-c31f-485e-8bf0-db3a244a9164" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1rhG57Oms2HogT6HQgH2mNB6kPS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\monst\PhpstormProjects\blog\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\monst\PhpstormProjects\blog\assets\js" />
+      <recent name="C:\Users\monst\PhpstormProjects\blog" />
+      <recent name="C:\Users\monst\PhpstormProjects\blog\Model\Manager" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f23b4d3f-c31f-485e-8bf0-db3a244a9164" name="Default Changelist" comment="" />
+      <created>1619420723819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619420723819</updated>
+      <workItem from="1619420725325" duration="5677000" />
+      <workItem from="1619441791604" duration="1828000" />
+      <workItem from="1619443722685" duration="4175000" />
+      <workItem from="1619469558140" duration="526000" />
+      <workItem from="1619470330005" duration="639000" />
+      <workItem from="1619470993602" duration="227000" />
+      <workItem from="1619506967039" duration="9449000" />
+      <workItem from="1619521433401" duration="1194000" />
+      <workItem from="1619682179963" duration="149000" />
+      <workItem from="1619987599109" duration="3062000" />
+      <workItem from="1620024988634" duration="13746000" />
+      <workItem from="1620111329715" duration="6940000" />
+      <workItem from="1620198640387" duration="390000" />
+      <workItem from="1620284347751" duration="5468000" />
+      <workItem from="1620299995069" duration="4858000" />
+      <workItem from="1620311880315" duration="930000" />
+      <workItem from="1620372637570" duration="606000" />
+      <workItem from="1620378809012" duration="2378000" />
+      <workItem from="1620630707908" duration="1210000" />
+      <workItem from="1620650275898" duration="739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
